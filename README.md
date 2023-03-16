@@ -30,9 +30,9 @@ export const stream = makeWsApi({
 
 Thanks for checking it out.  Feel free to create issues or otherwise provide feedback.
 
-[API Docs](https://passfolio.github.io/yaschema-ws-api/)
+[API Docs](https://typescript-oss.github.io/yaschema-ws-api/)
 
-Be sure to check out our other [Open Source @ Passfolio](https://github.com/Passfolio) projects as well.
+Be sure to check out our other [TypeScript OSS](https://github.com/TypeScript-OSS) projects as well.
 
 <!-- Definitions -->
 

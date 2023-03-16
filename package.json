@@ -1,6 +1,6 @@
 {
   "name": "yaschema-ws-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Web socket API support for yaschema",
   "keywords": [
     "schema",
@@ -11,8 +11,8 @@
   ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "https://github.com/Passfolio/yaschema-ws-api.git",
-  "homepage": "https://passfolio.github.io/yaschema-ws-api/",
+  "repository": "https://github.com/TypeScript-OSS/yaschema-ws-api.git",
+  "homepage": "https://typescript-oss.github.io/yaschema-ws-api/",
   "license": "MIT",
   "private": false,
   "scripts": {
