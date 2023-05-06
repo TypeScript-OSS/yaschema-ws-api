@@ -5,6 +5,8 @@ import type { AnyQuery } from './AnyQuery';
 
 /** A generic WebSocket API description */
 export interface WsApi<RequestCommandsT extends AnyCommands, ResponseCommandsT extends AnyCommands, QueryT extends AnyQuery> {
+  isYaschemaWsApi: true;
+
   /** The type of route, which will be used to select a URL base and is configurable using `setUrlBaseForRouteType` */
   routeType: string;
 

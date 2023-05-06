@@ -1,6 +1,6 @@
 {
   "name": "yaschema-ws-api",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Web socket API support for yaschema",
   "keywords": [
     "schema",
@@ -37,7 +37,7 @@
     "@types/lodash": "4.14.194",
     "@typescript-eslint/eslint-plugin": "^5.59.2",
     "@typescript-eslint/parser": "^5.59.2",
-    "eslint": "8.39.0",
+    "eslint": "8.40.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-import-resolver-typescript": "^3.5.5",
     "eslint-plugin-import": "^2.27.5",
