@@ -5334,10 +5334,10 @@ yargs@^17.3.1:
     y18n "^5.0.5"
     yargs-parser "^21.1.1"
 
-yaschema-api@^3.3.5:
-  version "3.3.5"
-  resolved "https://registry.yarnpkg.com/yaschema-api/-/yaschema-api-3.3.5.tgz#c28c785cea1ce4ed159c95d0a20243b68cdfb3cc"
-  integrity sha512-IdH5cLIO2Sc/rHN16kJBS8K+85Ps36eW5el7HD12Hib2nJMo5qY6NIn4226ciD1ZLMO8hmu3FkuFBLhvBjJ71A==
+yaschema-api@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/yaschema-api/-/yaschema-api-3.4.0.tgz#2418c47a3b65ac9f7d1b8d3ffd22860ed891756e"
+  integrity sha512-FLK5k5P4V7cJy83IhvNyktsN9hwuSL6E8D/OVNuwypLTm00mMcwiZ5kwg4h+jEDJoaEZHbIm+oeY4LATTbMlMg==
   dependencies:
     yaschema "^3.1.0"
 

@@ -4,4 +4,5 @@ export * from './AnyQuery';
 export * from './AnyStringSerializableType';
 export * from './GenericCommand';
 export * from './GenericWsApi';
+export * from './inference/exports';
 export * from './WsApi';
