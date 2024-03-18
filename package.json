@@ -1,6 +1,6 @@
 {
   "name": "yaschema-ws-api",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "Web socket API support for yaschema",
   "keywords": [
     "schema",
