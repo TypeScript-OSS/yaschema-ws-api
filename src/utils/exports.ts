@@ -1,2 +1,2 @@
-export * from './find-all-ws-apis-in-root';
-export * from './is-ws-api';
+export * from './find-all-ws-apis-in-root.js';
+export * from './is-ws-api.js';

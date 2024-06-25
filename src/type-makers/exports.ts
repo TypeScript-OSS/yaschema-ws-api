@@ -1,1 +1,1 @@
-export * from './make-ws-api';
+export * from './make-ws-api.js';

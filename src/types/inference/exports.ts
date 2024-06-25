@@ -1,3 +1,3 @@
-export * from './InferWsConnectionQueryType';
-export * from './InferWsRequestCommandsType';
-export * from './InferWsResponseCommandsType';
+export * from './InferWsConnectionQueryType.js';
+export * from './InferWsRequestCommandsType.js';
+export * from './InferWsResponseCommandsType.js';

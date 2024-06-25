@@ -1,5 +1,5 @@
 import type { GenericWsApi } from '../types/GenericWsApi';
-import { isWsApi } from './is-ws-api';
+import { isWsApi } from './is-ws-api.js';
 
 export const findAllWsApisInRoot = (root: any): GenericWsApi[] => internalFindAllWsApisInRoot(root, 0, []);
 

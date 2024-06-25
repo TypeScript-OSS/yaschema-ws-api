@@ -1,5 +1,5 @@
-import { makeWsApi } from '../../type-makers/make-ws-api';
-import { findAllWsApisInRoot } from '../find-all-ws-apis-in-root';
+import { makeWsApi } from '../../type-makers/make-ws-api.js';
+import { findAllWsApisInRoot } from '../find-all-ws-apis-in-root.js';
 
 const api1 = makeWsApi({
   routeType: 'test',
