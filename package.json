@@ -1,6 +1,6 @@
 {
   "name": "yaschema-ws-api",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Web socket API support for yaschema",
   "keywords": [
     "schema",
@@ -30,8 +30,8 @@
     "test:unit-tests": "yarn test:unit-tests: src"
   },
   "dependencies": {
-    "yaschema": "^3.5.0",
-    "yaschema-api": "^3.6.0"
+    "yaschema": "^3.5.1",
+    "yaschema-api": "^3.6.1"
   },
   "devDependencies": {
     "@eslint/compat": "1.1.0",
