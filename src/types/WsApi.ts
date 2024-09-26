@@ -1,8 +1,7 @@
 import type { Schema } from 'yaschema';
-import type { Api } from 'yaschema-api';
+import type { AnyQuery, Api } from 'yaschema-api';
 
 import type { AnyCommands } from './AnyCommands';
-import type { AnyQuery } from './AnyQuery';
 
 /** A generic WebSocket API description */
 export interface WsApi<RequestCommandsT extends AnyCommands, ResponseCommandsT extends AnyCommands, QueryT extends AnyQuery> extends Api {

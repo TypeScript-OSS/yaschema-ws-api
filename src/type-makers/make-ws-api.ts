@@ -1,5 +1,6 @@
+import type { AnyQuery } from 'yaschema-api';
+
 import type { AnyCommands } from '../types/AnyCommands';
-import type { AnyQuery } from '../types/AnyQuery';
 import type { WsApi } from '../types/WsApi';
 
 /**
