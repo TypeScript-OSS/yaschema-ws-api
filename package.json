@@ -1,6 +1,6 @@
 {
   "name": "yaschema-ws-api",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "description": "Web socket API support for yaschema",
   "keywords": [
     "schema",
@@ -35,22 +35,22 @@
   },
   "dependencies": {
     "yaschema": "^3.6.0",
-    "yaschema-api": "^3.8.1"
+    "yaschema-api": "^3.8.2"
   },
   "devDependencies": {
-    "@eslint/compat": "1.1.1",
+    "@eslint/compat": "1.2.2",
     "@eslint/eslintrc": "3.1.0",
-    "@eslint/js": "9.11.1",
-    "@types/jest": "^29.5.13",
-    "@typescript-eslint/eslint-plugin": "^8.7.0",
-    "@typescript-eslint/parser": "^8.7.0",
+    "@eslint/js": "9.13.0",
+    "@types/jest": "^29.5.14",
+    "@typescript-eslint/eslint-plugin": "^8.12.2",
+    "@typescript-eslint/parser": "^8.12.2",
     "esbuild": "0.24.0",
     "esbuild-plugin-tsc": "0.4.0",
-    "eslint": "9.11.1",
+    "eslint": "9.13.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-import-resolver-typescript": "^3.6.3",
     "eslint-plugin-file-extension-in-import-ts": "2.1.1",
-    "eslint-plugin-import": "^2.30.0",
+    "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-prefer-arrow": "^1.2.3",
     "eslint-plugin-prettier": "^5.2.1",
     "eslint-plugin-simple-import-sort": "^12.1.1",
@@ -62,7 +62,7 @@
     "prettier": "3.3.3",
     "trash-cli": "6.0.0",
     "ts-jest": "^29.2.5",
-    "typedoc": "^0.26.7",
-    "typescript": "5.6.2"
+    "typedoc": "^0.26.10",
+    "typescript": "5.6.3"
   }
 }
